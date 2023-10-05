@@ -44,17 +44,16 @@ I love the problem solving. I love the challenge of finding caches and spending 
 
 ## 🔭 I'm currently working on
 
-- Proble Solving on Hackerrank
-- MCA
-- My next blog
-- My CSS skill
+- Proble Solving skill
+- codewithnick/ascii-art repository
+- WEB tech learning
 
 ## 🌱 I'm currently learning
 
 - 📱 Git and Github
 - Open source contribution
 - C++
-- STL  
+- Compeitive programming  
 
 ## 💼 Technical Skills
 
