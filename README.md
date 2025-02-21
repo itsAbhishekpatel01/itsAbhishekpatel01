@@ -25,11 +25,11 @@
 <!-- NODE-JS -->
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <!-- ExpressJS -->
-<a href="https://expressjs.com/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="40"/> </a>
+<!-- <a href="https://expressjs.com/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="40"/> </a> -->
 <!-- JWT -->
 <a href="https://jwt.io/" target="_blank"> <img src="images/svg/jwt.svg" alt="jwt" width="40" height="40"/> </a>
 <!-- Socket IO -->
-<a href="https://socket.io/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socket-io" width="80" height="40"/> </a>
+<!-- <a href="https://socket.io/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socket-io" width="80" height="40"/> </a> -->
 <!-- Mysql -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <!-- PostGreSQL -->
@@ -52,10 +52,10 @@ I love the problem solving. I love the challenge of finding caches and spending 
 
 
 ### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsabhishekpatel01/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itsabhishekpatel)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/itsabhishekpatel01)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsabhishekpatel01/)
 
 
 
@@ -64,28 +64,15 @@ I love the problem solving. I love the challenge of finding caches and spending 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on  
+- 🏥 **Dispensary Management System** – Full-stack system with prescription PDF generation  
+- 🚀 **Problem-Solving Skills**  
+- 📊 **LeetCode Profile Analyzer** – Data visualization using Recharts & AI insights  
+- 🔍 **Dev Analyzer** – Analyzing coding profiles and providing insights  
 
-- Proble Solving skill
-- codewithnick/ascii-art repository
-- WEB tech learning
-
-## 🌱 I'm currently learning
-
-- 📱 Git and Github
-- Open source contribution
-- C++
-- Compeitive programming  
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+## 🌱 I'm currently learning  
+- 🤖 **Automata Theory**  
+- ⚛️ **Advanced React.js Concepts**  
+- 🏗️ **System Design**  
+- 💡 **Competitive Programming (Bit Manipulation, Recursion, DS topics)**  
+- 🌍 **Open Source Contribution**  
