@@ -1,77 +1,63 @@
-<img src="images/svg/header_en.svg"></img>
+<h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
+<h3 align="center">🚀 Full-Stack Developer | MCA @ NIT Jamshedpur | DSA Enthusiast | Problem Solver</h3>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<!-- Daisy UI -->
-<a href="https://daisyui.com/" target="_blank"> <img src="images/svg/daisyui.svg" alt="daisyui" width="40" height="40"/> </a>
-<!-- Javascript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!-- React JS -->
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<!-- React-pdf -->
-<a href="https://react-pdf.org/" target="_blank"> <img src="images/svg/react-pdf.png" alt="react-pdf" width="40" height="40"/> </a> 
-<!-- Netlify -->
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<!-- NODE-JS -->
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<!-- ExpressJS -->
-<!-- <a href="https://expressjs.com/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="40"/> </a> -->
-<!-- JWT -->
-<a href="https://jwt.io/" target="_blank"> <img src="images/svg/jwt.svg" alt="jwt" width="40" height="40"/> </a>
-<!-- Socket IO -->
-<!-- <a href="https://socket.io/" target="_blank"> <img style="background:white; border-radius:8px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socket-io" width="80" height="40"/> </a> -->
-<!-- Mysql -->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<!-- PostGreSQL -->
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<!-- C -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<!-- C++ -->
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-<!-- Java -->
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!-- Python -->
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsabhishekpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekpatel01" />
 </p>
 
+---
 
+## 💫 About Me
 
-I love the problem solving. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I’m a passionate full-stack developer currently pursuing MCA at NIT Jamshedpur, with a strong focus on building scalable and high-impact web applications.  
+I’ve been actively working on real-world projects and internships, contributing to production-grade systems using modern technologies like **React.js**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, and **Prisma**.
 
+---
 
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://instagram.com/itz_your_aarush" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/itsabhishekpatel01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/itsAbhishekp01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
+</p>
 
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsabhishekpatel01/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itsabhishekpatel)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/itsabhishekpatel01)
+---
 
+## 💻 Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,figma,vscode,git,github,docker" alt="skills" />
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabhishekpatel01&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" /><br><br>
 
-## 🔭 I'm currently working on  
-- 🏥 **Dispensary Management System** – Full-stack system with prescription PDF generation  
-- 🚀 **Problem-Solving Skills**  
-- 📊 **LeetCode Profile Analyzer** – Data visualization using Recharts & AI insights  
-- 🔍 **Dev Analyzer** – Analyzing coding profiles and providing insights  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhishekpatel01&theme=react&hide_border=false" /><br><br>
 
-## 🌱 I'm currently learning  
-- 🤖 **Automata Theory**  
-- ⚛️ **Advanced React.js Concepts**  
-- 🏗️ **System Design**  
-- 💡 **Competitive Programming (Bit Manipulation, Recursion, DS topics)**  
-- 🌍 **Open Source Contribution**  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhishekpatel01&layout=compact&theme=react&hide_border=false" /><br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=itsabhishekpatel01&theme=onestar&no-frame=true&row=1&column=6" /><br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsabhishekpatel01&theme=react-dark&area=true&hide_border=false" />
+
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
